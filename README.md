@@ -55,6 +55,12 @@ For each API key, the system will track the longest sequence of correct response
 Frontend - register your team with given API key at following URL: https://hackathon-frontend.mlo.sehlat.io/  
 Backend - check specification of endpoints at following URL: https://hackathon-api.mlo.sehlat.io/docs
 
+Additional data:  
+- client_001 - client_500 - proper set of documents  
+- client_501 - client_1000 - improper set of documents, very easy deficiencies  
+- client_1001 - client_1500 - proper set of documents  
+- client_1501 - client_2000 - improper set of documents, easy deficiencies  
+
 #### Important Technologies: 
 
 
