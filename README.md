@@ -59,7 +59,9 @@ Additional data:
 - client_001 - client_500 - proper set of documents  
 - client_501 - client_1000 - improper set of documents, very easy deficiencies  
 - client_1001 - client_1500 - proper set of documents  
-- client_1501 - client_2000 - improper set of documents, easy deficiencies  
+- client_1501 - client_2000 - improper set of documents, easy deficiencies
+- clients_2001 - client_2500 - proper set of documents
+- client_2501 - client_3000 - improper set of documents, medium deficiencies  
 
 #### Important Technologies: 
 
