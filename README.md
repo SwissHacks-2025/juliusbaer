@@ -20,11 +20,9 @@ The expectation is to develop an automated solution that can support Relationshi
 
 The expectation is to develop an automated solution that can support Relationship Managers and compliance functions to ensure all onboarding rules are duly met during client onboarding, enhanced with gamification elements so the journey is efficient and more entertaining. 
 
-## The Pitch:
+## JB Slides:
 
 Insert Pitchdeck here
-
-## Deep Dive Slides:
 
 Insert Deep Dive Slides here:
 
@@ -67,6 +65,7 @@ Additional data:
 
 
 ## Judging Criteria:
+* Presentation of the sales pitch
 * Efficiency gain: Solution improves the efficiency, simplifies the process and adds some value to the step when it comes to documentation of the onboarding process
 * Longest session: Team that will have the longest session in the game receive extra credits
 
