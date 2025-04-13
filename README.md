@@ -69,6 +69,10 @@ Additional data:
 * Efficiency gain: Solution improves the efficiency, simplifies the process and adds some value to the step when it comes to documentation of the onboarding process
 * Longest session: Team that will have the longest session in the game receive extra credits
 
+## Voluntary evaluation
+* In folder evaluation you will find 1000 clients, you can use to evaluate your solution
+* Submit file with answers in the same shape as eval_solution_example.csv, named: <your_team_name>.csv via Discord to Arek Gasecki
+
 ## Point of Contact:
 
 *	Claudine / Senad will be present and in Jury
